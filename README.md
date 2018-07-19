@@ -1,6 +1,6 @@
 # Yardly Clone Backend
 
-The backend for the Yardly clone app
+The backend for the Yardly clone app using NodeJS
 
 ## Running
 
