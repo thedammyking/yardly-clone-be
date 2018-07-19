@@ -1,4 +1,4 @@
-# yardly-clone-be
+# Yardly Clone Backend
 
 The backend for the Yardly clone app
 
