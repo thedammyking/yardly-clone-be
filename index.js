@@ -1,11 +1,11 @@
 const express = require("express");
 const Mailgun = require("mailgun-js");
 const bodyParser = require("body-parser");
-const stripe = require("stripe")("sk_test_Aq3Ba91kD2B39I64rag2weJT");
+const stripe = require("stripe")("sk_xxxxxxxxxxxxxxxxxxxxxxxxx");
 const Promise = require("promise");
 
-const api_key = "key-3aa5be89257b26962071476a0d2679ad";
-const DOMAIN = "admin.educonsults.org";
+const api_key = "key-xxxxxxxxxxxxxxxxxxxxxxxx";
+const DOMAIN = "your-damain";
 
 const app = express();
 
